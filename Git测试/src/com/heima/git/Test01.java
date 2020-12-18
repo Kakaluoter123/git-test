@@ -11,6 +11,9 @@ public class Test01 {
           System.out.println("hello git project");
      }
      public void test(){
-
+          int i=100;
+          while (i-->0){
+               System.out.println(666);
+          }
      }
 }
