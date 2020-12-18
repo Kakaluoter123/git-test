@@ -10,4 +10,7 @@ public class Test01 {
           System.out.println("hello git project");
           System.out.println("hello git project");
      }
+     public void test(){
+
+     }
 }
